@@ -7,7 +7,7 @@
     "@material-ui/core": "4.9.12",
     "@material-ui/icons": "4.9.1",
     "@mdx-js/mdx": "1.5.8",
-    "@mdx-js/react": "1.5.8",
+    "@mdx-js/react": "1.5.9",
     "@mdx-js/tag": "0.20.3",
     "axios": "0.19.2",
     "change-case": "4.1.1",
