@@ -9,7 +9,7 @@
     "@mdx-js/mdx": "1.6.1",
     "@mdx-js/react": "1.6.1",
     "@mdx-js/tag": "0.20.3",
-    "axios": "0.19.2",
+    "axios": "0.21.1",
     "change-case": "4.1.1",
     "disqus-react": "1.0.8",
     "gatsby": "2.21.21",
